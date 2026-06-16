@@ -5,6 +5,6 @@
 
 📌 Projects:
 - Telegram bot for my college's electronic journal (aiogram + curl_cffi) - reverse-engineered the college's API, deployed on VPS, actively used by me
-- Fuze - self-hosted platform unifying music from YouTube/Spotify/Yandex Music
+- OpenFuse - self-hosted platform unifying music from YouTube/Spotify/Yandex Music
 
 🎯 Looking for my first job as a junior backend developer
