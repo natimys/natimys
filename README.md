@@ -1,4 +1,4 @@
-👋 Hi! My name's Sergei, I'm a backend developer, first-year student, coding for about 9 months.
+👋 Hi! My name's Sergei, I'm a backend developer, student, coding for about a year.
 
 🔧 Stack: Python · FastAPI · PostgreSQL · SQLAlchemy · Redis · Docker · Alembic
 🧠 I also have some experience with C/C++, interested in clean architecture
